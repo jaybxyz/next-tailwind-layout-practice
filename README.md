@@ -2,7 +2,7 @@
 
 This is a demo project that shows how to create a reusable Header and Footer components using Next.js and Typescript.
 
-## Getting Started
+## Project Setup
 
 ```bash
 # Create Next App 
